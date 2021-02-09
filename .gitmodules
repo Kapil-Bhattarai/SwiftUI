@@ -1,0 +1,3 @@
+[submodule "CalendarApp"]
+	path = CalendarApp
+	url = git@github.com:Kapil-Bhattarai/swiftUi-Calendar.git
