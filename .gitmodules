@@ -1,3 +1,6 @@
 [submodule "CalendarApp"]
 	path = CalendarApp
 	url = git@github.com:Kapil-Bhattarai/swiftUi-Calendar.git
+[submodule "NavigationUI"]
+	path = NavigationUI
+	url = git@github.com:Kapil-Bhattarai/swiftUI-Navigation.git
